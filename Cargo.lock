@@ -691,13 +691,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "day1"
-version = "0.1.0"
-dependencies = [
- "anchor-lang",
-]
-
-[[package]]
 name = "derivative"
 version = "2.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1513,6 +1506,13 @@ dependencies = [
  "quote",
  "rustversion",
  "syn 2.0.58",
+]
+
+[[package]]
+name = "solanasc"
+version = "0.1.0"
+dependencies = [
+ "anchor-lang",
 ]
 
 [[package]]

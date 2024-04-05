@@ -5,7 +5,7 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-day1 = "6m3e17LB3YhXvzax97TNxGwUL6nRbFRKjGYgXWxXLPcD"
+solanasc = "EWUPVRLV3vutGzRFR37Aj79rTARCGvmBYhja9KjNMJ1s"
 
 [registry]
 url = "https://api.apr.dev"
